@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this software or the derived data products, please cite the paper below and, once minted, this repository's Zenodo DOI."
+title: "Magnetospheric Tomography: Altitude-Resolved Spatial Coherence of Ionospheric Currents (code + derived data)"
+type: software
+authors:
+  - family-names: Stephenson
+    given-names: Bruce
+    orcid: "https://orcid.org/0009-0005-6842-6686"
+    affiliation: "Independent researcher"
+version: "1.0.0"
+date-released: "2026-07-26"
+license: MIT
+repository-code: "https://github.com/energyscholar/magnetospheric-tomography"
+keywords:
+  - magnetosphere-ionosphere coupling
+  - SuperMAG
+  - GPS total electron content
+  - Moran's I spatial autocorrelation
+  - altitude-resolved coherence
+preferred-citation:
+  type: article
+  title: "Altitude-Resolved Spatial Coherence of Ionospheric Current Systems from Combined Ground Magnetometry and GPS Total Electron Content"
+  authors:
+    - family-names: Stephenson
+      given-names: Bruce
+      orcid: "https://orcid.org/0009-0005-6842-6686"
+      affiliation: "Independent researcher"
+  year: 2026

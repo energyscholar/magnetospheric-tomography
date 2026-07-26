@@ -1,0 +1,160 @@
+\begin{thebibliography}{}
+
+\bibitem[Al~Shidi et~al., 2022]{alshidi2022swmf}
+Al~Shidi, Q., Pulkkinen, T., Toth, G., Brenner, A., Zou, S., and Gjerloev,
+  J.~W. (2022).
+\newblock {A large simulation set of geomagnetic storms---Can simulations
+  predict ground magnetometer station observations of magnetic field
+  perturbations?}
+\newblock {\em Space Weather}, 20:e2022SW003049.
+
+\bibitem[Amm and Viljanen, 1999]{amm1999method}
+Amm, O. and Viljanen, A. (1999).
+\newblock {Ionospheric disturbance magnetic field continuation from the ground
+  to the ionosphere using spherical elementary current systems}.
+\newblock {\em Earth, Planets and Space}, 51:431--440.
+
+\bibitem[Anselin, 1995]{anselin1995lisa}
+Anselin, L. (1995).
+\newblock Local indicators of spatial association---{LISA}.
+\newblock {\em Geographical Analysis}, 27:93--115.
+
+\bibitem[Carpenter and Anderson, 1992]{carpenter1992plasmapause}
+Carpenter, D.~L. and Anderson, R.~R. (1992).
+\newblock {An ISEE/whistler model of equatorial electron density in the
+  magnetosphere}.
+\newblock {\em Journal of Geophysical Research}, 97:1097--1108.
+
+\bibitem[Chapman, 1931]{chapman1931absorption}
+Chapman, S. (1931).
+\newblock {The absorption and dissociative or ionizing effect of monochromatic
+  radiation in an atmosphere on a rotating earth}.
+\newblock {\em Proceedings of the Physical Society}, 43:26--45.
+
+\bibitem[Dods et~al., 2015]{dods2015network}
+Dods, J., Chapman, S.~C., and Gjerloev, J.~W. (2015).
+\newblock {Network analysis of geomagnetic substorms using the SuperMAG
+  database of ground-based magnetometer stations}.
+\newblock {\em Journal of Geophysical Research: Space Physics}, 120:7774--7784.
+
+\bibitem[Funsten et~al., 2013]{funsten2013helium}
+Funsten, H.~O., Skoug, R.~M., Gkioulidou, M., Grigorenko, E.~E., et~al. (2013).
+\newblock {Helium, Oxygen, Proton, and Electron (HOPE) mass spectrometer for
+  the Radiation Belt Storm Probes mission}.
+\newblock {\em Space Science Reviews}, 179:423--484.
+
+\bibitem[Gjerloev, 2012]{gjerloev2012supermag}
+Gjerloev, J.~W. (2012).
+\newblock {The SuperMAG data processing technique}.
+\newblock {\em Journal of Geophysical Research: Space Physics}, 117:A09213.
+
+\bibitem[Hardy et~al., 1985]{hardy1987auroral}
+Hardy, D.~A., Gussenhoven, M.~S., and Holeman, E. (1985).
+\newblock {A statistical model of auroral electron precipitation}.
+\newblock {\em Journal of Geophysical Research}, 90:4229--4248.
+
+\bibitem[Hern{\'a}ndez-Pajares et~al., 2009]{hernandez2009igs}
+Hern{\'a}ndez-Pajares, M., Juan, J.~M., Sanz, J., Or{\'u}s, R., Garcia-Rigo,
+  A., Feltens, J., Komjathy, A., Schaer, S.~C., and Krankowski, A. (2009).
+\newblock {The IGS VTEC maps: A reliable source of ionospheric information
+  since 1998}.
+\newblock {\em Journal of Geodesy}, 83:263--275.
+
+\bibitem[Iijima and Potemra, 1976]{iijima1976fac}
+Iijima, T. and Potemra, T.~A. (1976).
+\newblock {The amplitude distribution of field-aligned currents at northern
+  high latitudes observed by Triad}.
+\newblock {\em Journal of Geophysical Research}, 81:2165--2174.
+
+\bibitem[Kamide et~al., 1982]{kamide1982estimation}
+Kamide, Y., Richmond, A.~D., and Matsushita, S. (1982).
+\newblock {Estimation of ionospheric electric fields, ionospheric currents, and
+  field-aligned currents from ground magnetic records}.
+\newblock {\em Journal of Geophysical Research}, 87:8228--8240.
+
+\bibitem[Knudsen et~al., 2017]{knudsen2017thermal}
+Knudsen, D.~J., Burchill, J.~K., Buchert, S.~C., Eriksson, A.~I., Gill, R.,
+  Wahlund, J.-E., {\"A}hlen, L., Smith, M., and Moffat, B. (2017).
+\newblock {Thermal ion imagers and Langmuir probes in the Swarm electric field
+  instruments}.
+\newblock {\em Journal of Geophysical Research: Space Physics}, 122:2655--2673.
+
+\bibitem[Moissard et~al., 2022]{moissard2022moran}
+Moissard, C., Fontaine, D., and Savoini, P. (2022).
+\newblock {Moran's index and spatial autocorrelation of interplanetary coronal
+  mass ejection complexity}.
+\newblock {\em arXiv preprint arXiv:2212.01308}.
+
+\bibitem[Moran, 1950]{moran1950notes}
+Moran, P. A.~P. (1950).
+\newblock Notes on continuous stochastic phenomena.
+\newblock {\em Biometrika}, 37:17--23.
+
+\bibitem[Pulkkinen et~al., 2003]{pulkkinen2003ionospheric}
+Pulkkinen, A., Amm, O., Viljanen, A., and {BEAR Working Group} (2003).
+\newblock {Ionospheric equivalent current distributions determined with the
+  method of spherical elementary current systems}.
+\newblock {\em Journal of Geophysical Research: Space Physics}, 108:1053.
+
+\bibitem[Rey and Anselin, 2007]{rey2010pysal}
+Rey, S.~J. and Anselin, L. (2007).
+\newblock {PySAL: A Python library of spatial analytical methods}.
+\newblock {\em Review of Regional Studies}, 37:5--27.
+
+\bibitem[Ritter et~al., 2013]{ritter2013swarm}
+Ritter, P., L{\"u}hr, H., and Rauberg, J. (2013).
+\newblock {Determining field-aligned currents with the Swarm constellation
+  mission}.
+\newblock {\em Earth, Planets and Space}, 65:1285--1294.
+
+\bibitem[Schaer, 1999]{schaer1999mapping}
+Schaer, S. (1999).
+\newblock {Mapping and predicting the Earth's ionosphere using the Global
+  Positioning System}.
+\newblock {\em Geod{\"a}tisch-geophysikalische Arbeiten in der Schweiz}, 59.
+
+\bibitem[Spence et~al., 2013]{spence2013science}
+Spence, H.~E., Reeves, G.~D., Baker, D.~N., Blake, J.~B., Bolton, M.,
+  Bourdarie, S., Chan, A.~A., Claudepierre, S.~G., Clemmons, J.~H., Cravens,
+  J.~P., Elkington, S.~R., Fennell, J.~F., Friedel, R. H.~W., Funsten, H.~O.,
+  Goldstein, J., Green, J.~C., Guthrie, A., Henderson, M.~G., Horne, R.~B.,
+  Hudson, M.~K., Jahn, J.-M., Jordanova, V.~K., Kanekal, S.~G., Klatt, B.~W.,
+  Larsen, B.~A., Li, X., MacDonald, E.~A., Mann, I.~R., Niehof, J., O'Brien,
+  T.~P., Onsager, T.~G., Salvaggio, D., Skoug, R.~M., Smith, S.~S., Suber,
+  L.~L., Thomsen, M.~F., and Thorne, R.~M. (2013).
+\newblock {Science goals and overview of the Energetic Particle, Composition,
+  and Thermal Plasma (ECT) suite on NASA's Radiation Belt Storm Probes (RBSP)
+  mission}.
+\newblock {\em Space Science Reviews}, 179:311--336.
+
+\bibitem[T{\'o}th et~al., 2005]{toth2005swmf}
+T{\'o}th, G., Sokolov, I.~V., Gombosi, T.~I., Chesney, D.~R., Clauer, C.~R.,
+  De~Zeeuw, D.~L., Hansen, K.~C., Kane, K.~J., Manchester, W.~B., Oehmke,
+  R.~C., Powell, K.~G., Ridley, A.~J., Roussev, I.~I., Stout, Q.~F., Volberg,
+  O., Wolf, R.~A., Sazykin, S., Chan, A., Yu, B., and K{\'o}ta, J. (2005).
+\newblock {Space Weather Modeling Framework: A new tool for the space science
+  community}.
+\newblock {\em Journal of Geophysical Research: Space Physics}, 110:A12226.
+
+\bibitem[Weygand et~al., 2011]{weygand2011interhemispheric}
+Weygand, J.~M., Amm, O., Viljanen, A., Angelopoulos, V., Murr, D., Engebretson,
+  M.~J., Gleisner, H., and Mann, I. (2011).
+\newblock {Application and validation of the spherical elementary currents
+  systems technique for deriving ionospheric equivalent currents with the North
+  American and Greenland ground magnetometer arrays}.
+\newblock {\em Journal of Geophysical Research: Space Physics}, 116:A03305.
+
+\bibitem[Xiong et~al., 2014]{xiong2014aob}
+Xiong, C., L{\"u}hr, H., Wang, H., and Johnsen, M.~G. (2014).
+\newblock {Determining the boundaries of the auroral oval from CHAMP
+  field-aligned current signatures}.
+\newblock {\em Annales Geophysicae}, 32:609--622.
+
+\bibitem[Zhang et~al., 2019]{zhang2019gamera}
+Zhang, B., Sorathia, K.~A., Lyon, J.~G., Merkin, V.~G., Garretson, J.~S., and
+  Wiltberger, M. (2019).
+\newblock {GAMERA: A three-dimensional finite-volume MHD solver for
+  non-orthogonal curvilinear geometries}.
+\newblock {\em The Astrophysical Journal Supplement Series}, 244:20.
+
+\end{thebibliography}

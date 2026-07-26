@@ -1,0 +1,29 @@
+{
+  "upload_type": "publication",
+  "publication_type": "preprint",
+  "title": "Altitude-Resolved Spatial Coherence of Ionospheric Current Systems from Combined Ground Magnetometry and GPS Total Electron Content",
+  "creators": [
+    {
+      "name": "Stephenson, Bruce",
+      "affiliation": "Independent researcher",
+      "orcid": "0009-0005-6842-6686"
+    }
+  ],
+  "description": "Reproducibility package (manuscript, analysis code, and derived data products) for a method that decomposes the spatial coherence of geomagnetic perturbations by altitude, combining SuperMAG ground magnetometer data with CODE Global Ionosphere Maps of GPS total electron content. A two-layer Chapman model partitions TEC into F-region (300 km) and E-region (120 km) components; Moran's I computed on each modeled layer yields three spatial-coherence measures (I_gnd, I_120, I_300) that carry largely independent information across eight geomagnetic events (2000-2015). The altitude coherence switch Delta = I_120 - I_300 is presented as a candidate, sector-dependent storm-phase diagnostic rather than a universal one. A persistent Local Indicator of Spatial Association anomaly near Kangerlussuaq, Greenland is cross-validated with Swarm field-aligned currents, Van Allen Probes plasma composition, Swarm Langmuir probe density, and Swarm auroral oval boundaries. Raw SuperMAG data are not redistributed here (per SuperMAG data policy); the repository ships the derived per-epoch Moran's I products plus instructions to obtain the raw inputs.",
+  "keywords": [
+    "magnetosphere-ionosphere coupling",
+    "SuperMAG",
+    "GPS total electron content",
+    "Moran's I spatial autocorrelation",
+    "field-aligned currents",
+    "plasmapause",
+    "geomagnetic storms",
+    "space weather nowcasting",
+    "geomagnetically induced currents",
+    "altitude-resolved coherence"
+  ],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "language": "eng",
+  "notes": "Code is licensed MIT; manuscript, figures, and derived data are CC-BY-4.0. Data sources: SuperMAG (Gjerloev, 2012); CODE Global Ionosphere Maps (Schaer, 1999); Swarm (ESA) and Van Allen Probes (NASA)."
+}

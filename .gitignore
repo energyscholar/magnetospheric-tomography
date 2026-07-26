@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# LaTeX build artifacts (the compiled PDF and .bbl are committed intentionally)
+paper/*.aux
+paper/*.log
+paper/*.out
+paper/*.blg
+paper/*.fls
+paper/*.fdb_latexmk
+paper/*.synctex.gz
+paper/*.toc
+
+# Fetched raw data (not redistributed — see data/README.md)
+data/supermag/
+data/code_gims/
+data/gps_tec/
+data/satellite/
+
+# OS
+.DS_Store
