@@ -1,5 +1,9 @@
 # Magnetospheric Tomography: Altitude-Resolved Spatial Coherence of Ionospheric Currents
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21610418.svg)](https://doi.org/10.5281/zenodo.21610418)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![Code: MIT](https://img.shields.io/badge/Code-MIT-blue.svg)](LICENSE)
+
 Reproducibility package for the preprint **"Altitude-Resolved Spatial Coherence of
 Ionospheric Current Systems from Combined Ground Magnetometry and GPS Total Electron
 Content"** (B. Stephenson, 2026).
@@ -51,8 +55,16 @@ SuperMAG/CODE data fetched per `data/README.md`. Run all scripts from `code/`.
 
 ## Cite
 
-If you use this method, data products, or code, please cite the paper (and, once minted,
-this repository's Zenodo DOI). See [`CITATION.cff`](CITATION.cff).
+If you use this method, data products, or code, please cite the archived release. See
+[`CITATION.cff`](CITATION.cff) for machine-readable metadata.
+
+- **All versions (preferred):** [10.5281/zenodo.21610418](https://doi.org/10.5281/zenodo.21610418)
+  — this concept DOI always resolves to the latest version.
+- **This version (v1.0.0):** [10.5281/zenodo.21610419](https://doi.org/10.5281/zenodo.21610419)
+
+> Stephenson, B. (2026). *Altitude-Resolved Spatial Coherence of Ionospheric Current Systems
+> from Combined Ground Magnetometry and GPS Total Electron Content* (v1.0.0) [Preprint].
+> Zenodo. https://doi.org/10.5281/zenodo.21610418
 
 ## License
 
