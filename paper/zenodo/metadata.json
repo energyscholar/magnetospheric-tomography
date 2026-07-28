@@ -1,0 +1,32 @@
+{
+  "metadata": {
+    "upload_type": "publication",
+    "publication_type": "preprint",
+    "title": "Altitude-Resolved Spatial Coherence of Ionospheric Current Systems from Combined Ground Magnetometry and GPS Total Electron Content",
+    "creators": [
+      {
+        "name": "Stephenson, Bruce",
+        "affiliation": "Independent researcher",
+        "orcid": "0009-0005-6842-6686"
+      }
+    ],
+    "description": "We introduce a method for decomposing the spatial coherence of geomagnetic perturbations by altitude, combining SuperMAG ground magnetometer data with CODE Global Ionosphere Maps (GIM) of GPS total electron content (TEC). A two-layer Chapman model partitions TEC into solar EUV (F-region, 300 km) and auroral precipitation (E-region, 120 km) components, with the auroral fraction defined as a TEC-conserving column integral. Moran's I spatial autocorrelation statistic, computed on each modeled layer, yields three spatial-coherence measures (I_gnd, I_120, I_300) that carry largely independent information across eight geomagnetic events spanning 2000-2015 (combined R^2 = 0.12, 96 epochs). We stress that the two-layer split is a model, not a direct measurement of density at two altitudes. An altitude coherence switch, Delta = I_120 - I_300, oscillates by +/-0.4 during storms and tracks storm phase in the best-sampled sector; a per-sector decomposition shows its sign is sector-dependent, so we present it as a candidate diagnostic rather than a universal one. The same decomposition resolves magnetospheric spatial structure (the plasmapause boundary and the day-night asymmetry of the field-aligned current system) during magnetically quiet conditions (Kp ~ 1), demonstrating that the method does not depend on storm-amplitude perturbations to reveal magnetospheric organization. The method is robust to the choice of auroral fraction (f = 0.1-0.5), Chapman scale height (H = 40-80 km), and station network density (N >= 20). Independent cross-validation of a persistent Local Indicator of Spatial Association (LISA) anomaly near Kangerlussuaq, Greenland, using Swarm field-aligned currents, Van Allen Probes plasma composition, Swarm Langmuir probe density, and Swarm auroral oval boundaries confirms a magnetospheric origin at the Region 1 / Region 2 FAC boundary coincident with the plasmapause. The method provides a new diagnostic channel for ionosphere-magnetosphere coupling that is directly relevant to space weather nowcasting and geomagnetically induced current hazard assessment.",
+    "keywords": [
+      "magnetosphere-ionosphere coupling",
+      "SuperMAG",
+      "GPS total electron content",
+      "Moran's I spatial autocorrelation",
+      "field-aligned currents",
+      "plasmapause",
+      "geomagnetic storms",
+      "space weather nowcasting",
+      "geomagnetically induced currents",
+      "altitude-resolved coherence"
+    ],
+    "license": "cc-by-4.0",
+    "access_right": "open",
+    "publication_date": "2026-07-26",
+    "language": "eng",
+    "notes": "Preprint / working paper posted for a citable, timestamped priority record. Full journal submission (JGR: Space Physics) and arXiv cross-listing (physics.space-ph) to follow pending endorsement. Data sources: SuperMAG (Gjerloev, 2012); CODE Global Ionosphere Maps (Schaer, 1999); Swarm and Van Allen Probes via ESA VirES and NASA CDAWeb."
+  }
+}
