@@ -16,10 +16,11 @@ paper/*.synctex.gz
 paper/*.toc
 
 # Fetched raw data (not redistributed — see data/README.md)
-data/supermag/
-data/code_gims/
+data/supermag
+data/code_gims
 data/gps_tec/
 data/satellite/
 
 # OS
 .DS_Store
+results/
